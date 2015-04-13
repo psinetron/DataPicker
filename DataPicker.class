@@ -12,7 +12,7 @@ import android.view.View;
 import java.util.ArrayList;
 
 /**
- * Created by dev on 27.03.2015.
+ * Created by slybeaver on 27.03.2015.
  */
 public class DataPicker extends View {
     public Context dataPickercontext=null;
